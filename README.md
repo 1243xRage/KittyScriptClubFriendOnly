@@ -1,0 +1,2 @@
+# KittyScriptClubFriendOnly
+hi friend
